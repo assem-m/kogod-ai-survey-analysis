@@ -4,7 +4,7 @@ Portfolio revision prepared November 2, 2026 from the local `Final Notebook-1.ip
 
 ## Revisions
 
-- Retained all four named team members; individual contributions are unspecified.
+- Credited the project collaborators.
 - Changed longitudinal claims to comparisons across survey years because linked participants are not established.
 - Used one combined input and the explicit Kogod cohort indicator instead of several missing or ambiguously named CSV files.
 - Unified usage groups from reported frequency: 0, 1–7, and 8+; missing remains Unknown.
@@ -25,4 +25,4 @@ Portfolio revision prepared November 2, 2026 from the local `Final Notebook-1.ip
 
 ## Limits
 
-The real annotation workbook is unavailable, so its schema, labels, and empirical qualitative results have not been verified. Survey instrument equivalence, prior cleaning decisions, participant linkage, and individual team roles remain undocumented. The published notebook is intentionally output-free and requires authorized local data to reproduce results.
+The real annotation workbook is unavailable, so its schema, labels, and empirical qualitative results have not been verified. Survey instrument equivalence, prior cleaning decisions, participant linkage remain undocumented. The published notebook is intentionally output-free and requires authorized local data to reproduce results.

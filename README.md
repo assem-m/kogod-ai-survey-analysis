@@ -8,7 +8,7 @@ How does reported AI usage vary across survey years, and how do respondents with
 
 ## Team and provenance
 
-Original project team: **Natalie Cope, Assem Mendygaziyeva, Victoria Smith, and Esha Teware**, ITEC-400 / 600. This repository is Assem's portfolio presentation of shared coursework, not a claim of sole authorship. Individual responsibilities are not documented. The source was a locally saved Deepnote export, `Final Notebook-1.ipynb`; this edition was revised with AI assistance for consistency, privacy, and reproducibility. The original file remains unchanged on the author's computer.
+Course project developed with **Natalie Cope, Victoria Smith, and Esha Teware** for ITEC-400 / 600. The source was a locally saved Deepnote export, `Final Notebook-1.ipynb`; this edition was revised with AI assistance for consistency, privacy, and reproducibility. The original file remains unchanged on the author's computer.
 
 ## What the notebook does
 
