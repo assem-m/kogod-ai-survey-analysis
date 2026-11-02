@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+.DS_Store
+*.csv
+*.xlsx
+*.xls
+data/
+outputs/
